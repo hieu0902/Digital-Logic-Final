@@ -21,4 +21,4 @@ Functions:
 
 You can push the buttons (6 of them) to adjust the time as you wish, each of them can adjust one of the parts of time.
 
-Otherwise, the clock will start from 00:00:00 01/01/00.
+Otherwise, the clock will start from 00:00:00 01/01/2000.
